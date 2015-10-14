@@ -1,0 +1,2 @@
+This page is to hold files, discussions and repository of the course "Processing Digital Camera Images" for the group working on "Gradient domain imaging".<br>
+This course is a part of the Computer Graphics department at the TU Berlin.
